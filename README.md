@@ -20,9 +20,9 @@ php日常学习笔记 记录遇到的坑 项目记录
   * [函数](./doc/func.md)
 
   
-  * [命名空间](./doc/name.md) 未完结
+  * [命名空间](./doc/name.md)
   
-  * [表单基本处理](./doc/biaodan.md)  未完结
+  * [表单基本处理](./doc/biaodan.md)
 
 ## [PHP高级]() 未完结
 
@@ -48,7 +48,7 @@ php日常学习笔记 记录遇到的坑 项目记录
 
   * [ajax](./doc/ajax.md)
 
-## [PHP进阶]()
+## [PHP进阶]() 未完结
 
   * [面向对象](./doc/obj.md)
 
