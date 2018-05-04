@@ -3,54 +3,54 @@ php日常学习笔记 记录遇到的坑 项目记录
 
 ## [php基础]()
 
-  * [语法](yufa.md) 
+  * [语法](./doc/yufa.md) 
 
-  * [变量](bian.md)
+  * [变量](./doc/bian.md)
 
-  * [数据类型](shuju.md)
+  * [数据类型](./doc/shuju.md)
 
-  * [运算符](yunsuan.md)
+  * [运算符](./doc/yunsuan.md)
 
-  * [流程控制语句](yuju.md)
+  * [流程控制语句](./doc/yuju.md)
 
-  * [循环语句](xunhuan.md)
+  * [循环语句](./doc/xunhuan.md)
 
   * [数组](arr.md)
 
-  * [函数](func.md)
+  * [函数](./doc/func.md)
 
   
-  * [命名空间](name.md)
-  
-  * [表单基本处理](biaodan.md)
+  * [命名空间](./doc/name.md) 未完结
+  
+  * [表单基本处理](./doc/biaodan.md)  未完结
 
-## [PHP高级]()
+## [PHP高级]() 未完结
 
-  * [多维数组](duowei.md)
+  * [多维数组](./doc/duowei.md)
 
-  * [PHP日期](date.md)
+  * [PHP日期](./doc/date.md)
 
-  * [include](include.md)
+  * [include](./doc/include.md)
 
-  * [文件操作](file.md)
+  * [文件操作](./doc/file.md)
 
-  * [cookie](cookie.md)
+  * [cookie](./doc/cookie.md)
 
-  * [session](session.md)
+  * [session](./doc/session.md)
 
-  * [E-mail](email.md)
+  * [E-mail](./doc/email.md)
 
-  * [filter](filter.md)
+  * [filter](./doc/filter.md)
 
-  * [json](json.md)
+  * [json](./doc/json.md)
 
-  * [mysql](shujuku.md)
+  * [mysql](./doc/shujuku.md)
 
-  * [ajax](ajax.md)
+  * [ajax](./doc/ajax.md)
 
 ## [PHP进阶]()
 
-  * [面向对象](obj.md)
+  * [面向对象](./doc/obj.md)
 
   * php设计模式
 
