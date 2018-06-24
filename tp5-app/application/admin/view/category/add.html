@@ -1,0 +1,23 @@
+{include file="public/heads"}
+
+<h1>admin 后台管理系统</h1>
+
+<h3><a href="#" class="adds">添加分类</a></h3>
+
+
+<div class="add-li">
+	
+id: <input type="text" name="id" value="" class="id_" />
+
+分类: <input type="text" name="class" value="" class="fenlei" />
+
+质量: <input type="text" name="qulaity" value="" class="qual" />
+
+<input type="submit" name="sub" value="提交" class="sub-btn" />
+
+</div>
+
+<div class="frame">
+	<iframe src="{:url('category/list')}"></iframe>
+</div>
+

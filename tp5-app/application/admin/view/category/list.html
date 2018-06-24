@@ -1,0 +1,8 @@
+{include file="public/heads"}
+
+<!-- 后台传来的数据 -->
+{volist name="res" id="vo"}
+
+<div>{$vo.qual} -------{$vo.fenlei}--------{$vo.create_time}  </div>
+
+{/volist}
