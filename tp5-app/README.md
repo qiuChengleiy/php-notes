@@ -100,9 +100,11 @@ www  WEB部署目录（或者子目录）
 * localhost:8000/index.php/模块/控制器/控制器的方法  //找到对应模块的控制器和方法
 
 
-## 数据库遇到的坑
+### 数据库遇到的坑
 
 * The server requested authentication method unknown to the client
+
+* 记一下我设置的数据库密码 : "yourpass"  (生怕到时候又忘记了~~~ 懒得改密码了)
 
 ```php
 
